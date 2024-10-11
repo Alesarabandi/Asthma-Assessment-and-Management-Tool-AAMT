@@ -26,7 +26,7 @@ Prediction: Upon clicking the "Predict" button, the app evaluates the input agai
 
 Medicine Guidance: Based on the average prediction score from both models, the app suggests appropriate medications and natural remedies, along with important side effect information.
 
-<img width="787" alt="Screenshot 2024-10-10 at 18 17 00" src="https://github.com/user-attachments/assets/04eef033-cc44-44fa-aed1-47baa313d1ff">
+<img width="786" alt="Screenshot 2024-10-11 at 14 50 20" src="https://github.com/user-attachments/assets/1b89e85e-76d4-4c93-acc9-d60c02969572">
 
 
 # Tools Used
