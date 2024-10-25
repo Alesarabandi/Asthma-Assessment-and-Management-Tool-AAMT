@@ -8,7 +8,7 @@ The Asthma Assessment and Management Tool (AAMT) is a Python-based application d
 
 # Features
 
-User-Friendly Interface: Built with Tkinter for easy input and output interaction.
+User Friendly Interface: Built with Tkinter for easy input and output interaction.
 
 Machine Learning Models: Trained using Support Vector Machines (SVM) and Random Forest classifiers to provide reliable assesment.
 
